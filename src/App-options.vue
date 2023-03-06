@@ -18,6 +18,7 @@ export default {
     this.contador = 0
   }
 }
+
 </script>
 
 <template>
